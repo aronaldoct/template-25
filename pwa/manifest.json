@@ -1,0 +1,29 @@
+{
+    "name": "App Developer",
+    "short_name": "D-APP",
+    "description": "Pagina de programador",
+    "background_color": "#c10d0d",
+    "theme_color": "#c10d0d",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+        {
+          "src": "../assets/img/pwa/idea-creativa.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+            "src": "../assets/img/pwa/idea-creativa1.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "../assets/img/pwa/idea-creativa2.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ]
+  }
